@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xalilov_Saidkamol_Task_01", "Xalilov_Saidkamol_Task_01.csproj", "{F80AA8B4-F0F2-4B32-9C88-EEB934BFD188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xalilov_Saidkamol_Task_02", "Xalilov_Saidkamol_Task_02\Xalilov_Saidkamol_Task_02.csproj", "{77BAD4D2-7014-4799-81EA-794EDEA65E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80AA8B4-F0F2-4B32-9C88-EEB934BFD188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80AA8B4-F0F2-4B32-9C88-EEB934BFD188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80AA8B4-F0F2-4B32-9C88-EEB934BFD188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80AA8B4-F0F2-4B32-9C88-EEB934BFD188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BAD4D2-7014-4799-81EA-794EDEA65E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BAD4D2-7014-4799-81EA-794EDEA65E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BAD4D2-7014-4799-81EA-794EDEA65E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BAD4D2-7014-4799-81EA-794EDEA65E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F661C5CA-62BE-45ED-92FC-1124EB4D59F3}
+	EndGlobalSection
+EndGlobal
